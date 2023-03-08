@@ -90,7 +90,7 @@ dfn {
   font-style: italic; }
 
 mark {
-  background: #ff0;
+  background: rgb(255, 255, 0);
   color: #000; }
 
 code,
